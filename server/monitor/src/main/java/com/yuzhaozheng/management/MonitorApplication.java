@@ -1,13 +1,13 @@
-package com.yuzhaozheng.mnangement;
+package com.yuzhaozheng.management;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ManagementApplication {
+public class MonitorApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ManagementApplication.class, args);
+        SpringApplication.run(MonitorApplication.class, args);
     }
 
 }
